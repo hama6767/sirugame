@@ -6,7 +6,7 @@ namespace Naninovel.UI
     public class ControlPanelTitleButton : ScriptableButton
     {
         [ManagedText("DefaultUI")]
-        protected static string ConfirmationMessage = "Are you sure you want to quit to the title screen?<br>Any unsaved game progress will be lost.";
+        protected static string ConfirmationMessage = "タイトル画面に戻りますか? \n セーブしていないデータは当然残りません。\n セーブしてても残らんかも(デバッグ不足)";
 
         private IStateManager gameState;
         private IUIManager uiManager;

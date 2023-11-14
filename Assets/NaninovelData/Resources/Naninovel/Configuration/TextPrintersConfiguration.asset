@@ -37,7 +37,7 @@ MonoBehaviour:
     guid: d800d175-c9e8-4b0e-a42c-92f2f0c7ab4c
     customData:
       rid: -2
-    Pivot: {x: 0.5, y: 0.5}
+    Pivot: {x: 0, y: 0}
     PixelsPerUnit: 100
     EnableDepthPass: 1
     DepthAlphaCutoff: 0.5

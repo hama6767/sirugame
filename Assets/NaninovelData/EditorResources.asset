@@ -17,12 +17,12 @@ MonoBehaviour:
     Resources:
     - name: Dialogue
       pathPrefix: TextPrinters
-      guid: 1bc08ccd31adff6439e97161aa6e1d8b
+      guid: 3879bfddfd1342e47b9275db1012e851
   - Id: TextPrinters/361f5516-34b2-4213-a7b5-4391e95f08e0
     Resources:
     - name: Fullscreen
       pathPrefix: TextPrinters
-      guid: c87cebd3f0d4f174789cd351ce9591c4
+      guid: 28dd3b7732cff3241866b01d303978fc
   - Id: TextPrinters/8b61c5c0-1995-40f0-b51a-983f1c76d0e1
     Resources:
     - name: Wide
@@ -144,6 +144,15 @@ MonoBehaviour:
     - name: ScriptNavigatorUI
       pathPrefix: UI
       guid: 735d6aa767879aa469134858c5b2f0a7
+    - name: InfoUI
+      pathPrefix: UI
+      guid: 2c681834b3129a74abe7a3bbe6fdf6ff
+    - name: CalenderUI
+      pathPrefix: UI
+      guid: 09d747132c6e346408cded67ea6784cc
+    - name: ParamsUI
+      pathPrefix: UI
+      guid: b8c67be385d22244e885c1e57d87e866
   - Id: Scripts
     Resources:
     - name: NewScript
@@ -155,26 +164,26 @@ MonoBehaviour:
   - Id: Characters/46883697-5a40-4446-a614-75f481e421e7
     Resources:
     - name: Default
-      pathPrefix: Characters/Arao
+      pathPrefix: "Characters/\u8352\u5C3E"
       guid: 6161590e7049f3942962896b49c6724b
     - name: Good
-      pathPrefix: Characters/Arao
+      pathPrefix: "Characters/\u8352\u5C3E"
       guid: 60d82a40e38a9d74f87ecdfda6e5faf4
     - name: Niyari
-      pathPrefix: Characters/Arao
+      pathPrefix: "Characters/\u8352\u5C3E"
       guid: 99b504cff369a644491bc6a9c98f5160
     - name: Annoying
-      pathPrefix: Characters/Arao
+      pathPrefix: "Characters/\u8352\u5C3E"
       guid: 45dad6d6602cecd468880704e5ff2814
     - name: Angry
-      pathPrefix: Characters/Arao
+      pathPrefix: "Characters/\u8352\u5C3E"
       guid: 482943799ef7e124c81cf6af07ea7c10
     - name: Happy
-      pathPrefix: Characters/Arao
+      pathPrefix: "Characters/\u8352\u5C3E"
       guid: f049b5523272a5d4cbc31ddda9e9de52
     - name: Suprising
-      pathPrefix: Characters/Arao
+      pathPrefix: "Characters/\u8352\u5C3E"
       guid: 03c38bc45633413459a2ec6a3f709ea2
     - name: Bad
-      pathPrefix: Characters/Arao
+      pathPrefix: "Characters/\u8352\u5C3E"
       guid: 42789b6e9e2114046b0b00002d11af94

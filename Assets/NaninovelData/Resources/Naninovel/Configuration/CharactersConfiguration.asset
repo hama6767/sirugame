@@ -65,7 +65,7 @@ MonoBehaviour:
     Poses: []
   Metadata:
     ids:
-    - Arao
+    - "\u8352\u5C3E"
     - 
     metas:
     - Implementation: Naninovel.SpriteCharacter, Elringus.Naninovel.Runtime, Version=0.0.0.0,
@@ -80,7 +80,7 @@ MonoBehaviour:
       guid: 46883697-5a40-4446-a614-75f481e421e7
       customData:
         rid: -2
-      Pivot: {x: 0.5, y: 0.2}
+      Pivot: {x: 0.5, y: 0.25}
       PixelsPerUnit: 100
       EnableDepthPass: 1
       DepthAlphaCutoff: 0.5
